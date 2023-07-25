@@ -36,10 +36,16 @@
 }
 
 /* section styles */
+
 .container {
     width: 1336px;
     height: 908px;
-    margin: 0 auto;
+    margin: auto;
+    margin-bottom: 48px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-content: space-between;
 }
 .card1 {
     width: 310px;
