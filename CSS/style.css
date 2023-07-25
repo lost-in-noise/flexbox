@@ -104,3 +104,16 @@
     margin: auto;
     margin-top: 24px;
 }
+/* footer styles */
+.footer-main {
+    height: 439px;
+    background-color: #53535354;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-block {
+    width: 1306px;
+    height: 223px;
+    background-color: aqua;
+}
