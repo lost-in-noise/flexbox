@@ -115,5 +115,48 @@
 .footer-block {
     width: 1306px;
     height: 223px;
-    background-color: aqua;
+    display: flex;
+}
+.logo-box {
+    width: 318.05px;
+    height: 221px;
+    margin-right: 144.15px;
+    background-color: burlywood;
+}
+.link-box {
+    width: 136px;
+    height: 223px;
+    margin-right: 254px;
+    background-color: burlywood;
+}
+.service-box {
+    width: 199px;
+    height: 223px;
+    margin-right: 147px;
+    background-color: burlywood;
+}
+.lang-box {
+    width: 107px;
+    height: 127.45px;
+    background-color: burlywood;
+}
+.logo-info {
+    font-size: 14px;
+    font-family: 'Inter-Regular';
+    line-height: 16.94px;
+    color: #535353;
+    margin-top: 32px;
+    margin-bottom: 28px;
+    padding-right: 3px;
+    margin-left: 7px;
+}
+.insta-icon {
+    margin-right: 16px;
+    margin-left: 16px;
+}
+.link-title {
+    font-family: 'Inter-SemiBold';
+    color: #1E1E1E;
+    font-size: 20px;
+    line-height: 24.2px;
 }
