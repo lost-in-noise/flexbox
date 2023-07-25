@@ -1,0 +1,32 @@
+.text-block {
+    width: 1336px;
+    margin: 0 auto;
+    padding-top: 80px;
+}
+.title-block {
+    width: 716px;
+    margin: 0 auto;
+    text-align: center;
+}
+.title-describtion {
+    width: 760px;
+    text-align: center;
+    margin: auto;
+    margin-top: 16px;
+    font-size: 20px;
+    line-height: 35px;
+    color: #5F6980;
+    font-family: 'Inter-Regular';
+}
+.title {
+    line-height: 26px;
+    font-size: 16px;
+    color: #282828;
+    font-family: 'Inter-SemiBold';
+}
+.team-title {
+    font-size: 54px;
+    line-height: 62px;
+    color: #282828;
+    font-family: 'Inter-SemiBold';
+}
