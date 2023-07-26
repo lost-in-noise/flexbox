@@ -2,7 +2,7 @@
 .text-block {
     width: 1336px;
     margin: 0 auto;
-    padding-top: 80px;
+    margin-top: 80px;
 }
 .title-block {
     width: 716px;
@@ -200,4 +200,10 @@
     font-size: 14px;
     line-height: 16.94px;
     color: #535353;
-}
+    width: 199px;
+    height: 48px;
+    text-align: center;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    }
